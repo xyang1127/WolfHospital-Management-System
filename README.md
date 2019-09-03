@@ -1,4 +1,4 @@
-# csc540-proj
+# WolfHospital-Management-System
 
 This is a project for the CSC540 semester project from the spring of 2019.
 
